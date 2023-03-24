@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Atul Patel</h1>
 <h3 align="center">A passionate Machine Learning Developer.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvp8&label=Profile%20views&color=0e75b6&style=flat" alt="devvp8" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning ,Web Development**
 
