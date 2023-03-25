@@ -33,3 +33,11 @@
 <p class="dark">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvp8&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
 
 <p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvp8&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
+
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devvp8&theme=onedark" alt="devvp8">
+  </a>
+</p>
+
