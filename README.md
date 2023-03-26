@@ -36,9 +36,9 @@
 
 ![Dev Patel's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DEVVP8&theme=react)
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=devvp8&theme=onedark" alt="devvp8">
   </a>
-</p>
+</p> -->
 
