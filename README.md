@@ -14,6 +14,7 @@
 - 📫 How to reach me **devpatel8103@gmail.com**
 
 - 🥇 **Top 12 at Manipal's University Datathon Sigfest 2023.**
+- 🥇 **3rd place at DJ Sanghvi's Datathon DataHack 1.0 2023.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
