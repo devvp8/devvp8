@@ -36,7 +36,6 @@
 
 <p class="dark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvp8&locale=en&layout=compact&theme=blueberry" alt="devvp8" /></p>
 
-![Dev Patel's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DEVVP8&theme=react)
 
  <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
