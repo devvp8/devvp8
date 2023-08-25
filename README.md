@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Atul Patel</h1>
 <h3 align="center">A passionate Machine Learning Developer.</h3>
 
-- 🎓 **Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
+- 🎓 **Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.**
 
 - 🌱 I’m currently learning **Machine Learning ,Web Development.**
 
